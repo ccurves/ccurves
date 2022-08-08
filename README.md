@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **iamccurves@gmail.com**
 
-- ⚡ Fun fact **I am a self-proclaimed web auteur** 😄
+- ⚡ Fun fact **I am a self-proclaimed software auteur** 😄
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
