@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Simon Covenant</h1>
-<h3 align="center">A passionate fullstack developer with an obsession for creating applications with easy-to-use slick user interfaces</h3>
+<p align="left">A passionate fullstack developer with an obsession for creating applications with easy-to-use slick user interfaces</p>
 
 - 🌱 I’m currently learning **redux, solidity**
 
