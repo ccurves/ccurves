@@ -1,71 +1,109 @@
+<!-- CCURVES · Simon Covenant — GitHub profile README. Portal to ccurves.dev. -->
 
-<!--
-**ccurves/ccurves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://ccurves.dev">
+    <img src="assets/banner.png" alt="Simon Covenant — CCURVES · Have Idea. Build Idea. Solve Problems." width="100%" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://ccurves.dev"><b>ccurves.dev</b></a> &nbsp;·&nbsp;
+  <a href="https://academy.ccurves.dev">Academy</a> &nbsp;·&nbsp;
+  <a href="https://agency.ccurves.dev">Agency</a> &nbsp;·&nbsp;
+  <a href="https://ida.ccurves.dev">Ida</a> &nbsp;·&nbsp;
+  <a href="https://wall.ccurves.dev">The Wall</a> &nbsp;·&nbsp;
+  <a href="https://scents.ccurves.dev">ScentsByC</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://img.shields.io/badge/Founder-CCURVES-e54d38?style=flat-square&labelColor=0a0908" alt="Founder of CCURVES" />
+  <img src="https://img.shields.io/badge/AI-Educator-ff6a52?style=flat-square&labelColor=0a0908" alt="AI Educator" />
+  <img src="https://img.shields.io/badge/Full--stack-Engineer-e54d38?style=flat-square&labelColor=0a0908" alt="Full-stack Engineer" />
+  <img src="https://img.shields.io/badge/Web3-Developer-ff6a52?style=flat-square&labelColor=0a0908" alt="Web3 Developer" />
+</p>
 
-<h1 align="center">Hi 👋, I'm Simon Covenant</h1>
-<p align="left">A passionate fullstack developer with an obsession for creating applications with easy-to-use slick user interfaces</p>
+---
 
-- 🌱 I’m currently learning **Solidity, Typescript**
+## Hi, I'm Simon Covenant
 
-- 💬 Ask me about **NodeJs, React, Solidity**
+I build **CCURVES** — an AI ecosystem that turns everyday people into builders and ideas into real, shipped products. I work end-to-end: full-stack engineering, Web3 & smart contracts, and shipping AI into products people actually use — then I teach others to do the same.
 
-- 📫 How to reach me **iamccurves@gmail.com**
+> **Have Idea. Build Idea. Solve Problems.**
 
-- ⚡ Fun fact **Consider myself a software auteur** :art:
+- 🧠 **Founder & lead instructor, [CCURVES Academy](https://academy.ccurves.dev)** — *AI Software Development Mastery*, with **110+ developers** learning to build and ship with AI.
+- 🛠️ **Founder, [CCURVES Agency](https://agency.ccurves.dev)** — AI systems, automation and software, designed and shipped for businesses.
+- 🤖 **Builder of [Ida](https://ida.ccurves.dev)** — the CCURVES AI assistant, live across web, Telegram and WhatsApp.
+- 🎤 **Speaker & advocate** — AI, building, and the *execution gap* — from campuses to community stages.
+- 📫 **Reach me:** [ccurves.dev](https://ccurves.dev) · iamccurves@gmail.com
 
-<br>
+---
 
-<h3 dir="auto"><a id="user-content--im-currently-working-on" class="anchor" aria-hidden="true" href="#-im-currently-working-on"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> I’m currently working with</h3>
-</blockquote>
-</blockquote>
-<ol dir="auto">
-<li>
-<p dir="auto">Web Development(full stack) <br><br>
+## 🌐 The CCURVES ecosystem
 
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/cf1a0ef083a2372d7f66b4691d5d25bfd8c098f42871e8da90edb1f32ed187c4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074"><img src="https://camo.githubusercontent.com/cf1a0ef083a2372d7f66b4691d5d25bfd8c098f42871e8da90edb1f32ed187c4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&amp;logo=javascript" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d77d55f10703538914dabd29faf76815a37b04439842757bb9170aa3ebde1337/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163744a532d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d7265616374"><img src="https://camo.githubusercontent.com/d77d55f10703538914dabd29faf76815a37b04439842757bb9170aa3ebde1337/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163744a532d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d7265616374" alt="React" data-canonical-src="https://img.shields.io/badge/-ReactJS-black?style=flat-square&amp;logo=react" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6c24952103d8c691ad20bdee152ffaed24d92654be0503450eb0386c63302766/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6578744a532d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6e6578742e6a73"><img src="https://camo.githubusercontent.com/6c24952103d8c691ad20bdee152ffaed24d92654be0503450eb0386c63302766/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6578744a532d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6e6578742e6a73" alt="Next" data-canonical-src="https://img.shields.io/badge/-NextJS-black?style=flat-square&amp;logo=next.js" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/cec92673ea713fa89ba2ae2033daf5851f6f39393ff5b93231aa707d424638d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64656a732d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d4e6f64652e6a73"><img src="https://camo.githubusercontent.com/cec92673ea713fa89ba2ae2033daf5851f6f39393ff5b93231aa707d424638d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64656a732d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d4e6f64652e6a73" alt="Nodejs" data-canonical-src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&amp;logo=Node.js" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/03e85e29dbe290fe4324b6908147dc6046e2fae80a1ff9d0c00bb16f6dfe80cd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4150492532304445562d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d617069"><img src="https://camo.githubusercontent.com/03e85e29dbe290fe4324b6908147dc6046e2fae80a1ff9d0c00bb16f6dfe80cd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4150492532304445562d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d617069" alt="api" data-canonical-src="https://img.shields.io/badge/-API%20DEV-black?style=flat-square&amp;logo=api" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9cf16ac015540854cbb2322fdbb025826aec3bf12951db9bc23353ca2b601c6b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4772617068516c2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d4772617068516c"><img src="https://camo.githubusercontent.com/9cf16ac015540854cbb2322fdbb025826aec3bf12951db9bc23353ca2b601c6b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4772617068516c2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d4772617068516c" alt="graphql" data-canonical-src="https://img.shields.io/badge/-GraphQl-black?style=flat-square&amp;logo=GraphQl" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/83b1bc08ef341c39ed71a678068b7e5f95bac0391e75595439049a8080bc0c68/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/83b1bc08ef341c39ed71a678068b7e5f95bac0391e75595439049a8080bc0c68/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" alt="HTML5" data-canonical-src="https://img.shields.io/badge/-HTML5-black?style=flat-square&amp;logo=html5&amp;logoColor=white" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/735a0035e9a903865aa03b29414eb639fb4ae0e57a3839cc66815837c9a545bd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d63737333"><img src="https://camo.githubusercontent.com/735a0035e9a903865aa03b29414eb639fb4ae0e57a3839cc66815837c9a545bd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d63737333" alt="CSS3" data-canonical-src="https://img.shields.io/badge/-CSS3-black?style=flat-square&amp;logo=css3" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/93a02442520ce3ae01e744cb4bed7b3677909d53db30db6b431d8c91233e208a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5461696c77696e642d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d7461696c77696e64637373"><img src="https://camo.githubusercontent.com/93a02442520ce3ae01e744cb4bed7b3677909d53db30db6b431d8c91233e208a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5461696c77696e642d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d7461696c77696e64637373" alt="Tailwind" data-canonical-src="https://img.shields.io/badge/-Tailwind-black?style=flat-square&amp;logo=tailwindcss" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ea8d06ee5393fec5644e63d035070d043e14fdd79bb21b88242c1ca60a4e3f50/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d426f6f7473747261702d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d626f6f747374726170"><img src="https://camo.githubusercontent.com/ea8d06ee5393fec5644e63d035070d043e14fdd79bb21b88242c1ca60a4e3f50/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d426f6f7473747261702d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d626f6f747374726170" alt="Bootstrap" data-canonical-src="https://img.shields.io/badge/-Bootstrap-black?style=flat-square&amp;logo=bootstrap" style="max-width: 100%;"></a></p>
-</li>
-<li>
-<p dir="auto">Database &amp; ORM<br><br>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/392fa71fd2737088b6d21ba33f3d2fb6e1ac7c61142cdbe56c1d688ecf781ab8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d6f6e676f44422d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6d6f6e676f6462"><img src="https://camo.githubusercontent.com/392fa71fd2737088b6d21ba33f3d2fb6e1ac7c61142cdbe56c1d688ecf781ab8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d6f6e676f44422d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6d6f6e676f6462" alt="MongoDB" data-canonical-src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&amp;logo=mongodb" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/edc3c957c55954d7fa30faf019b30be3573e3d464addba0b8f9c06353d8f187f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46697265626173652d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6669726562617365"><img src="https://camo.githubusercontent.com/edc3c957c55954d7fa30faf019b30be3573e3d464addba0b8f9c06353d8f187f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46697265626173652d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6669726562617365" alt="Firebase" data-canonical-src="https://img.shields.io/badge/Firebase-black?style=flat-square&amp;logo=firebase" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/708f7113d4b24e8ed273be709ea129ca57d2cd6c4843f626e1f64c3dd90f8e98/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d6f6e676f6f73652d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6d6f6e676f6f73656a73"><img src="https://camo.githubusercontent.com/708f7113d4b24e8ed273be709ea129ca57d2cd6c4843f626e1f64c3dd90f8e98/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d6f6e676f6f73652d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6d6f6e676f6f73656a73" alt="Mongoose JS" data-canonical-src="https://img.shields.io/badge/mongoose-black?style=flat-square&amp;logo=mongoosejs" style="max-width: 100%;"></a></p>
-</li>
-<li>
-<p dir="auto">Cloud<br><br>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0136ea95042a2ed2958cabe8b3a24881693fef9de9448e3c9b0c7dc0dc5b5e9c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4865726f6b752d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6865726f6b75"><img src="https://camo.githubusercontent.com/0136ea95042a2ed2958cabe8b3a24881693fef9de9448e3c9b0c7dc0dc5b5e9c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4865726f6b752d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6865726f6b75" alt="Heroku" data-canonical-src="https://img.shields.io/badge/-Heroku-black?style=flat-square&amp;logo=heroku" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/76acbfc014e3c251698c7fd0f5c5c56d562bd04073a95e6b758363541c8452aa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4469676974616c2532304f6365616e2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6469676974616c6f6365616e"><img src="https://camo.githubusercontent.com/76acbfc014e3c251698c7fd0f5c5c56d562bd04073a95e6b758363541c8452aa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4469676974616c2532304f6365616e2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6469676974616c6f6365616e" alt="DigitalOcean" data-canonical-src="https://img.shields.io/badge/-Digital%20Ocean-black?style=flat-square&amp;logo=digitalocean" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9b2f4366883823c8fab4e280db79507d665c4780f08f0930a519300e0615b35b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416d617a6f6e2532304157532532304543322d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d616d617a6f6e2d617773"><img src="https://camo.githubusercontent.com/9b2f4366883823c8fab4e280db79507d665c4780f08f0930a519300e0615b35b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416d617a6f6e2532304157532532304543322d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d616d617a6f6e2d617773" alt="Amazon EC2" data-canonical-src="https://img.shields.io/badge/Amazon%20AWS%20EC2-black?style=flat-square&amp;logo=amazon-aws" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f8d48dfcd1ece0c895e3fda00a9451f66f73a7a81da51efa8c38d037cdc7ea5b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4350616e656c2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d4350616e656c"><img src="https://camo.githubusercontent.com/f8d48dfcd1ece0c895e3fda00a9451f66f73a7a81da51efa8c38d037cdc7ea5b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4350616e656c2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d4350616e656c" alt="CPanel" data-canonical-src="https://img.shields.io/badge/CPanel-black?style=flat-square&amp;logo=CPanel" style="max-width: 100%;"></a></p>
-</li>
-<li>
-<p dir="auto">Version Control<br><br>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/edd3031a0956c904634f9a394267a6ba61e9a0bb95c9512a1fbc0725b4014d03/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d676974"><img src="https://camo.githubusercontent.com/edd3031a0956c904634f9a394267a6ba61e9a0bb95c9512a1fbc0725b4014d03/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d676974" alt="Git" data-canonical-src="https://img.shields.io/badge/-Git-black?style=flat-square&amp;logo=git" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/85dc47a56a4e73ae7b6e64b3b4416785497e74219ae179ae8faaaca10d5a78d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731373f7374796c653d666c61742d737175617265266c6f676f3d676974687562"><img src="https://camo.githubusercontent.com/85dc47a56a4e73ae7b6e64b3b4416785497e74219ae179ae8faaaca10d5a78d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731373f7374796c653d666c61742d737175617265266c6f676f3d676974687562" alt="GitHub" data-canonical-src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&amp;logo=github" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/010f5a47dad21ef001dc2361b458673327ac1b517958eba156471fabd59d28c2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744c61622d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6769746c6162"><img src="https://camo.githubusercontent.com/010f5a47dad21ef001dc2361b458673327ac1b517958eba156471fabd59d28c2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744c61622d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6769746c6162" alt="GitLab" data-canonical-src="https://img.shields.io/badge/-GitLab-black?style=flat-square&amp;logo=gitlab" style="max-width: 100%;"></a>
-</li>
-</ol>
-<blockquote>
-<blockquote>
+One brand, many doors — everything I'm building lives here:
 
+| | | |
+|---|---|---|
+| **[The Hub](https://ccurves.dev)** | `ccurves.dev` | The front door to everything CCURVES. |
+| **[The Academy](https://academy.ccurves.dev)** | `academy.ccurves.dev` | Learn to build with AI — classroom, leaderboard, certificates. |
+| **[The Agency](https://agency.ccurves.dev)** | `agency.ccurves.dev` | AI systems & software, built and shipped for you. |
+| **[Ida](https://ida.ccurves.dev)** | `ida.ccurves.dev` | The CCURVES AI — your voice-first guide across the ecosystem. |
+| **[The Wall](https://wall.ccurves.dev)** | `wall.ccurves.dev` | A gallery of real products built by CCURVES students. |
+| **[ScentsByC](https://scents.ccurves.dev)** | `scents.ccurves.dev` | The CCURVES fragrance house — sold as an experience. |
 
+---
+
+## ⚡ What I do
+
+- **Full-stack product development** — end-to-end modern web apps, from data model to a polished, human-centered UI.
+- **Web3 & smart contracts** — decentralized systems and smart-contract architecture built to be safe and scalable.
+- **AI product integration** — agents, tooling, retrieval, and AI-powered platforms shipped into real products.
+- **Education & mentorship** — teaching developers to actually ship, through structured coursework, reviews and mentorship.
+- **Technology advocacy** — advancing tech through media, stages and community — making it accessible to everyone.
+
+---
+
+## 🧰 Tech I build with
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-0a0908?style=flat-square&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-0a0908?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/-React-0a0908?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/-Next.js-0a0908?style=flat-square&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/-React%20Native-0a0908?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/-Tailwind-0a0908?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
+![Node.js](https://img.shields.io/badge/-Node.js-0a0908?style=flat-square&logo=node.js&logoColor=8CC84B)
+![MongoDB](https://img.shields.io/badge/-MongoDB-0a0908?style=flat-square&logo=mongodb&logoColor=47A248)
+![Supabase](https://img.shields.io/badge/-Supabase-0a0908?style=flat-square&logo=supabase&logoColor=3ECF8E)
+![Solidity](https://img.shields.io/badge/-Solidity-0a0908?style=flat-square&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/-Ethereum-0a0908?style=flat-square&logo=ethereum&logoColor=white)
+![AI / LLMs](https://img.shields.io/badge/-AI%20%2F%20LLMs-0a0908?style=flat-square&logo=openai&logoColor=white)
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ccurves&show_icons=true&hide_border=true&bg_color=0a0908&title_color=e54d38&icon_color=ff6a52&text_color=a8a39c" alt="Simon Covenant's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccurves&layout=compact&hide_border=true&bg_color=0a0908&title_color=e54d38&text_color=a8a39c" alt="Top languages" height="165" />
+</p>
+
+---
+
+## 🤝 Connect
+
+<p align="left">
+  <a href="https://ccurves.dev"><img src="https://img.shields.io/badge/Website-ccurves.dev-e54d38?style=flat-square&labelColor=0a0908&logo=vercel&logoColor=white" alt="Website" /></a>
+  <a href="https://x.com/iamccurves"><img src="https://img.shields.io/badge/X-@iamccurves-0a0908?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://www.linkedin.com/in/ccurves/"><img src="https://img.shields.io/badge/LinkedIn-in%2Fccurves-0a0908?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+  <a href="https://t.me/iamccurves"><img src="https://img.shields.io/badge/Telegram-@iamccurves-0a0908?style=flat-square&logo=telegram&logoColor=26A5E4" alt="Telegram" /></a>
+  <a href="https://www.instagram.com/devccurves"><img src="https://img.shields.io/badge/Instagram-devccurves-0a0908?style=flat-square&logo=instagram&logoColor=E4405F" alt="Instagram" /></a>
+  <a href="https://www.youtube.com/@iamccurves"><img src="https://img.shields.io/badge/YouTube-@iamccurves-0a0908?style=flat-square&logo=youtube&logoColor=FF0000" alt="YouTube" /></a>
+  <a href="https://www.tiktok.com/@iamccurves"><img src="https://img.shields.io/badge/TikTok-@iamccurves-0a0908?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok" /></a>
+</p>
+
+---
+
+<p align="center">
+  <a href="https://ccurves.dev"><b>Have an idea? Come build it with us → ccurves.dev</b></a><br/>
+  <sub>CCURVES — the AI ecosystem of Simon Covenant.</sub>
+</p>
